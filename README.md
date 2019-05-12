@@ -1,5 +1,5 @@
 # Big Data Challenge
-This is the code repository for CopticYouth.ca development.
+
 
 > NOTE: this is still under construction
 
